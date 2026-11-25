@@ -1,31 +1,49 @@
-### Full-stack developer • Design Engineer
+# Hi, I'm Andrew, a Full-stack Engineer
 
-I love combining my passion for creativity, building, and engineering — with 19+ years of experience delivering solutions via web applications, network infrastructure, and embedded systems.
+### 🚀 Bridging the gap between complex systems engineering and intuitive user experiences.
 
-### 🔧 Skills & Tech
-- **Languages**: TypeScript, Python, PHP, Bash
-- **Frontend**: React, Node.js, Nextjs, Svelte, Tailwind
-- **Backend**: REST, GraphQL, PostgreSQL, MongoDB, Docker, Stripe
-- **Systems**: Linux (Debian & Arch), AWS, Cloudflare
-- **Embedded**: Raspberry Pi, automation, MIDI devices
-- **AI/ML**: OpenCV, MediaPipe, Tensorflow, Ollama, HailoAI
-- **Security**: Cryptography, steganography, systems hardening
+With 20+ years of experience, I build robust, scalable solutions across the entire stack—from embedded firmware to cloud-native web applications.
 
-### 🧠 Now
-- Building an embedded + desktop ML app in TypeScript/Python
-- Creating custom solutions for business clients
-- Running and maintaining servers (18+ years and counting)
+---
 
-### 🛠️ Contributions
-- [Penny](https://github.com/jaredlockhart/penny) A Personal AI Agent in Python
-- [Payload CMS](https://github.com/payloadcms/payload) An open-source, fullstack Next.js framework
-- [Webiny CMS](https://github.com/webiny/webiny-js) Open-source serverless enterprise CMS
-- [Ollami](https://github.com/aetaix/ollami) Ollami is a cross-platform desktop application for Ollama AI
-- [DelugeFirmware](https://github.com/synthstrom/DelugeFirmware) Firmware for the Synthstrom Audible Deluge
+### 🏗️ Full-Stack Engineering & Architecture
+*I specialize in end-to-end development, ensuring seamless integration from the lowest level of hardware to the highest level of the user interface.*
 
-### 🧬 Background
-- 15 years running a web dev agency (PHP/Python/JS)
-- Former ecommerce dev
+* **Software Lifecycle:** Expert in designing, developing, and maintaining complex distributed systems.
+* **System Reliability:** I don't just write code; I architect the environments it inhabits. I manage and maintain co-located bare metal servers, providing 99.9% uptime for dozens of public-facing applications over 5+ years.
+* **Architectural Depth:** My experience spans the entire spectrum: from low-level embedded logic to high-level, scalable web architectures.
 
-📡 Online everywhere as **@alifeinbinary**  
-💼 Open to opportunities — [Send me a message](https://www.alifeinbinary.com/contact)
+---
+
+### 🧰 Technical Arsenal
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React, TypeScript, Next.js |
+| **Backend & Cloud** | Node.js, Nginx, Document and Relational Databases, AWS |
+| **Systems & Embedded** | Python, Rust, Firmware |
+| **DevOps & Infrastructure** | Linux, Cloudflare, Docker, CI/CD |
+| **AI & Intelligence** | LLM Integration, Computer Vision, llama.cpp |
+
+---
+
+### 🏗 Creations & Contributions
+
+* [Penny](https://github.com/jaredlockhart/penny) — *A Personal AI Agent in Python*
+* [Tailwind React Music Player](https://github.com/alifeinbinary/tailwind-react-music-player) — *An open-source integrated music player for the browser*
+* [Stegg](https://github.com/alifeinbinary/stegg) — *An application that creates cryptographic messages hidden within images*
+* [Ollami](https://github.com/aetaix/ollami) — *Ollami is a cross-platform desktop application for Ollama AI*
+* [DelugeFirmware](https://github.com/synthstrom/DelugeFirmware) — *Firmware for the Synthstrom Audible Deluge*
+
+---
+
+### 📫 Connect with me
+
+* [LinkedIn](https://www.linkedin.com/in/alifeinbinary/)
+* [Portfolio](https://www.alifeinbinary.com/)
+* [Send me a message](https://www.alifeinbinary.com/contact)
+
+---
+<p align="center">
+  <i>"I Build systems that don't just work, but endure."</i>
+</p>
